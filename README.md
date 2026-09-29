@@ -11,18 +11,18 @@
 
 <br />
 
-## ðŸ‘‹ About Me
+## Ã°Å¸â€˜â€¹ About Me
 
 I'm a software developer who enjoys turning ideas into working products, from REST API consumers and CRUD apps to authentication flows and cross-platform mobile apps.
 
-- ðŸ”­ Currently working on **KITCHAN**, a team project for centralizing delivery orders. My part: JWT login and role-based route protection.
-- ðŸŒ± Building with **Python (Flask), C# / .NET MAUI, TypeScript (Next.js)** and SQL/NoSQL databases.
-- ðŸš€ I practice deployment with **Vercel** and **Render**.
-- ðŸ¤ I work in teams using feature branches and pull requests.
+- Ã°Å¸â€Â­ Currently working on **KITCHAN**, a team project for centralizing delivery orders. My part: JWT login and role-based route protection.
+- Ã°Å¸Å’Â± Building with **Python (Flask), C# / .NET MAUI, TypeScript (Next.js)** and SQL/NoSQL databases.
+- Ã°Å¸Å¡â‚¬ I practice deployment with **Vercel** and **Render**.
+- Ã°Å¸Â¤Â I work in teams using feature branches and pull requests.
 
 <br />
 
-## ðŸ› ï¸ Tech Stack
+## Ã°Å¸â€ºÂ Ã¯Â¸Â Tech Stack
 
 **Languages**
 
@@ -51,9 +51,9 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-## â­ Featured Projects
+## Ã¢Â­Â Featured Projects
 
-### ðŸ³ [KITCHAN](https://github.com/Isaaidk/KITCHAN)
+### Ã°Å¸ÂÂ³ [KITCHAN](https://github.com/Isaaidk/KITCHAN)
 
 > **Centralized order management for digital delivery environments.**
 > A platform that gathers orders from delivery apps (Uber Eats, Rappi, PedidosYa) into one real-time kitchen display.
@@ -68,7 +68,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-[**View repository â†’**](https://github.com/Isaaidk/KITCHAN)
+[**View repository Ã¢â€ â€™**](https://github.com/Isaaidk/KITCHAN)
 
 <br />
 
@@ -91,7 +91,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Paulolivo4/MauiNasaAppPO">MauiNasaAppPO</a> Â· <a href="https://github.com/Paulolivo4/ApiNasaPO">ApiNasaPO</a></h4>
+      <h4><a href="https://github.com/Paulolivo4/MauiNasaAppPO">MauiNasaAppPO</a> Ã‚Â· <a href="https://github.com/Paulolivo4/ApiNasaPO">ApiNasaPO</a></h4>
       <p>Cross-platform .NET MAUI app and a companion API project working with NASA data.</p>
       <p><img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" /></p>
       <a href="https://github.com/Paulolivo4/MauiNasaAppPO">Code</a>
@@ -108,7 +108,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
       <h4><a href="https://github.com/Paulolivo4/ponextjsvercelworkshop2025">ponextjsvercelworkshop2025</a></h4>
       <p>Next.js workshop project deployed on Vercel.</p>
       <p><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></p>
-      <a href="https://ponextjsvercelworkshop2025.vercel.app">Live demo</a> Â· <a href="https://github.com/Paulolivo4/ponextjsvercelworkshop2025">Code</a>
+      <a href="https://ponextjsvercelworkshop2025.vercel.app">Live demo</a> Ã‚Â· <a href="https://github.com/Paulolivo4/ponextjsvercelworkshop2025">Code</a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Paulolivo4/novaflowlabs">novaflowlabs</a></h4>
@@ -121,7 +121,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-## ðŸ“Š GitHub Stats
+## Ã°Å¸â€œÅ  GitHub Stats
 
 <div align="center">
 
@@ -132,12 +132,11 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-## ðŸ¤ Let's Connect
+## Ã°Å¸Â¤Â Let's Connect
 
-<!-- Add your real links below, then remove this comment -->
 <a href="https://github.com/Paulolivo4"><img src="https://img.shields.io/badge/GitHub-Paulolivo4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/paulo-olivo-320254298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+<a href="mailto:polivo.software@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
