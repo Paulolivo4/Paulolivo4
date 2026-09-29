@@ -22,7 +22,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-##Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 ## Featured Projects
 
-###[KITCHAN](https://github.com/Isaaidk/KITCHAN)
+### [KITCHAN](https://github.com/Isaaidk/KITCHAN)
 
 > **Centralized order management for digital delivery environments.**
 > A platform that gathers orders from delivery apps (Uber Eats, Rappi, PedidosYa) into one real-time kitchen display.
@@ -138,7 +138,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-##Let's Connect
+## Let's Connect
 
 <a href="https://github.com/Paulolivo4"><img src="https://img.shields.io/badge/GitHub-Paulolivo4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/paulo-olivo-320254298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
