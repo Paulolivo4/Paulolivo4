@@ -11,14 +11,14 @@
 
 <br />
 
-##About Me
+## About Me
 
 I'm a software developer who enjoys turning ideas into working products, from REST API consumers and CRUD apps to authentication flows and cross-platform mobile apps.
 
-- Ã°Å¸â€Â­ Currently working on **KITCHAN**, a team project for centralizing delivery orders. My part: JWT login and role-based route protection.
-- Ã°Å¸Å’Â± Building with **Python (Flask), C# / .NET MAUI, TypeScript (Next.js)** and SQL/NoSQL databases.
-- Ã°Å¸Å¡â‚¬ I practice deployment with **Vercel** and **Render**.
-- Ã°Å¸Â¤Â I work in teams using feature branches and pull requests.
+- Currently working on **KITCHAN**, a team project for centralizing delivery orders. My part: JWT login and role-based route protection.
+- Building with **Python (Flask), C# / .NET MAUI, TypeScript (Next.js)** and SQL/NoSQL databases.
+- I practice deployment with **Vercel** and **Render**.
+- I work in teams using feature branches and pull requests.
 
 <br />
 
@@ -51,7 +51,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-##Featured Projects
+## Featured Projects
 
 ###[KITCHAN](https://github.com/Isaaidk/KITCHAN)
 
@@ -127,7 +127,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
-##GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
