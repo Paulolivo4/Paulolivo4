@@ -78,7 +78,7 @@ I'm a software developer who enjoys turning ideas into working products, from RE
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Paulolivo4/Login-CRUD-Flask">Login-CRUD-Flask</a></h4>
-      <p>Flask web app with login/logout, user registration and full CRUD, organized in MVC layers with separate admin, client and restaurant-owner controllers. Connected to SQL Server through pyodbc.</p>
+      <p>Role-based restaurant app: admins register restaurants, owners manage menus and clients manage reservations. MVC with Flask blueprints and SQL Server stored procedures; deployable on Render.</p>
       <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></p>
       <a href="https://github.com/Paulolivo4/Login-CRUD-Flask">Code</a>
     </td>
@@ -91,26 +91,20 @@ I'm a software developer who enjoys turning ideas into working products, from RE
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Paulolivo4/MauiNasaAppPO">MauiNasaAppPO</a> Ã‚Â· <a href="https://github.com/Paulolivo4/ApiNasaPO">ApiNasaPO</a></h4>
-      <p>Two .NET MAUI apps that work with NASA&rsquo;s Astronomy Picture of the Day (APOD) data.</p>
-      <p><img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" /></p>
-      <a href="https://github.com/Paulolivo4/MauiNasaAppPO">Code</a>
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/Paulolivo4/CoctelesApiPO">CoctelesApiPO</a></h4>
-      <p>.NET MAUI app that consumes a public cocktail API and lists the results.</p>
+      <p>.NET MAUI app that consumes TheCocktailDB API and lists cocktails with their picture and instructions.</p>
       <p><img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" /></p>
       <a href="https://github.com/Paulolivo4/CoctelesApiPO">Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Paulolivo4/ponextjsvercelworkshop2025">ponextjsvercelworkshop2025</a></h4>
-      <p>Next.js workshop app deployed on Vercel, with authentication (NextAuth), a products API and Supabase integration.</p>
+      <p>Next.js 16 app deployed on Vercel: Auth0 sign-in (Auth.js), protected routes and a products API backed by Supabase.</p>
       <p><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></p>
       <a href="https://ponextjsvercelworkshop2025.vercel.app">Live demo</a> Ã‚Â· <a href="https://github.com/Paulolivo4/ponextjsvercelworkshop2025">Code</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4><a href="https://github.com/Paulolivo4/novaflowlabs">novaflowlabs</a></h4>
       <p>Landing page for <b>NovaFlow Labs</b>, a web automation brand.</p>
       <p><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></p>
