@@ -121,6 +121,18 @@ I'm a software developer who enjoys turning ideas into working products, from RE
 
 <br />
 
+## 🎓 Certifications
+
+| Certification | Issuer | Date | Verify |
+| --- | --- | --- | --- |
+| **Cloud Computing Fundamentals** | IBM SkillsBuild | Nov 2025 | [Credly](https://www.credly.com/badges/72816c14-4ead-4816-b548-39259dffccdc) |
+| **Analista de datos con Power BI** *(Data Analyst with Power BI, 10 h)* | Udemy | Oct 2025 | [Certificate](https://ude.my/UC-d3f648e9-fba0-4a6c-80bf-961791f446b4) |
+| **Gestión de proyectos - Proyectos pequeños** *(Project Management: Small Projects, 1.5 h)* | Udemy | Oct 2025 | [Certificate](https://ude.my/UC-34f14070-f824-4b99-bef6-1251f0b2236a) |
+| **Creatividad e Innovación** *(Creativity and Innovation, 3 h)* | Udemy | Oct 2025 | [Certificate](https://ude.my/UC-9c35520e-3d8b-4174-b35c-d720a2767bad) |
+| **Design Thinking - De Cero a Maestro** *(Design Thinking: Zero to Master, 2 h)* | Udemy | Apr 2024 | [Certificate](https://ude.my/UC-a6134a2a-4e2b-4c01-827b-8a1d634afe5d) |
+
+<br />
+
 ## Ã°Å¸â€œÅ  GitHub Stats
 
 <div align="center">
